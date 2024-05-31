@@ -280,6 +280,6 @@
 
 | **박건우** | **강한얼** | **강수진** | **김정운** |
 | :------: |  :------: | :------: | :------: |
-| [<img src="https://avatars.githubusercontent.com/u/62492735?v=4" height=150 width=150> <br/> @hanur92](https://github.com/hanur92) | [<img src="https://avatars.githubusercontent.com/u/133184988?v=4" height=150 width=150> <br/> @pigpgw](https://github.com/pigpgw) | [<img src="https://avatars.githubusercontent.com/u/138956130?v=4" height=150 width=150> <br/> @Knagsoojin](https://github.com/Knagsoojin) | [<img src="https://avatars.githubusercontent.com/u/146833294?v=4" height=150 width=150> <br/> @zkflal](https://github.com/zkflal) |
+|[<img src="https://avatars.githubusercontent.com/u/133184988?v=4" height=150 width=150> <br/> @pigpgw](https://github.com/pigpgw) |  [<img src="https://avatars.githubusercontent.com/u/62492735?v=4" height=150 width=150> <br/> @hanur92](https://github.com/hanur92)  | [<img src="https://avatars.githubusercontent.com/u/138956130?v=4" height=150 width=150> <br/> @Knagsoojin](https://github.com/Knagsoojin) | [<img src="https://avatars.githubusercontent.com/u/146833294?v=4" height=150 width=150> <br/> @zkflal](https://github.com/zkflal) |
 
 </div>
