@@ -35,18 +35,6 @@
 
 <br>
 
-## 팀원 구성
-
-<div align="center">
-
-| **박건우** | **강한얼** | **강수진** | **김정운** |
-| :------: |  :------: | :------: | :------: |
-| [<img src="https://avatars.githubusercontent.com/u/62492735?v=4" height=150 width=150> <br/> @hanur92](https://github.com/hanur92) | [<img src="https://avatars.githubusercontent.com/u/133184988?v=4" height=150 width=150> <br/> @pigpgw](https://github.com/pigpgw) | [<img src="https://avatars.githubusercontent.com/u/138956130?v=4" height=150 width=150> <br/> @Knagsoojin](https://github.com/Knagsoojin) | [<img src="https://avatars.githubusercontent.com/u/146833294?v=4" height=150 width=150> <br/> @zkflal](https://github.com/zkflal) |
-
-</div>
-
-<br>
-
 ## 1. 개발 환경
 
 - Front : HTML, React, TypeScript, styled-components,React-Query
@@ -294,5 +282,14 @@
 ## **23-01-17 성능 개선 내용**
 - ㅇ
 
+<br>
 
-컨벤션을 정하는 것부터 Readme 파일 작성까지 전 과정을 진행하려니 처음 생각보다 많은 에너지를 썼어요. 좋은 의미로 많이 썼다기보다, 제 능력을 십분 발휘하지 못해서 아쉬움이 남는 쪽입니다. 개발한다고 개발만 해서는 안 된다는 것을 몸소 느껴보는 기간이었던 것 같습니다. 이번 기회로 프로젝트를 진행하면서, 제가 잘하는 점과 부족한 점을 확실하게 알고 가는 건 정말 좋습니다. 기술적인 부분에 있어서는 리액트의 컴포넌트화가 주는 장점을 알았습니다. 조금 느린 개발이 되었을지라도 코드 가독성 부분에 있어서 좋았고, 오류가 발생해도 전체가 아닌 오류가 난 컴포넌트와 근접한 컴포넌트만 살펴보면 수정할 수 있는 부분이 너무 편했습니다. 모두 고생 참 많으셨고 리팩토링을 통해 더 나은 프로젝트 완성까지 화이팅입니다.
+## 팀원 구성
+
+<div align="center">
+
+| **박건우** | **강한얼** | **강수진** | **김정운** |
+| :------: |  :------: | :------: | :------: |
+| [<img src="https://avatars.githubusercontent.com/u/62492735?v=4" height=150 width=150> <br/> @hanur92](https://github.com/hanur92) | [<img src="https://avatars.githubusercontent.com/u/133184988?v=4" height=150 width=150> <br/> @pigpgw](https://github.com/pigpgw) | [<img src="https://avatars.githubusercontent.com/u/138956130?v=4" height=150 width=150> <br/> @Knagsoojin](https://github.com/Knagsoojin) | [<img src="https://avatars.githubusercontent.com/u/146833294?v=4" height=150 width=150> <br/> @zkflal](https://github.com/zkflal) |
+
+</div>
