@@ -20,7 +20,6 @@
 - Back-end : 제공된 API 활용
 - 협업 툴 : Discord, Notion, Github
 - 서비스 배포 환경 : Ec2
-- 디자인 : [Figma](https://www.figma.com/proto/nSsTvGyvDnp4rHOwbwJqmV/Untitled?node-id=0-1&t=egEgzC34zbFAuskw-1)
 
 ## 역할 분담
 
