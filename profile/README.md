@@ -16,7 +16,7 @@
 - 코인샵을 이용해 코인을 충전할 수 있습니다.
 
 ## 개발 환경
-- Front : HTML, React, TypeScript, styled-components,React-Query
+- Front : React, TypeScript, styled-components,React-Query, Redux Toolkit
 - Back-end : 제공된 API 활용
 - 협업 툴 : Discord, Notion, Github
 - 서비스 배포 환경 : Ec2
