@@ -39,7 +39,7 @@ Ohneul은 일상 생활에서 지치고 힘들지만 누군가에게 속마음�
 - 코인샵을 이용해 코인을 충전할 수 있습니다.
 
 ## 개발 환경
-- Front : React, TypeScript, styled-components,React-Query, Redux Toolkit
+- Front-end : React, TypeScript, Styled-Components, React-Query, Redux Toolkit
 - Back-end : 제공된 API 활용
 - 협업 툴 : Discord, Notion, Github
 - 서비스 배포 환경 : Ec2
@@ -52,7 +52,10 @@ Ohneul은 일상 생활에서 지치고 힘들지만 누군가에게 속마음�
 - **기능**
     - 유저 정보 등록(닉네임, 취미, 기분), 소켓, 결제
 ### 👻강한얼
+- - **UI**
+    - 페이지 : 로그인 페이지, 마이 페이지, 관리자 페이지
 - **기능**
+    - 소셜로그인, 로그아웃, 회원탈퇴, 유저 정보 확인, 관리자 페이지를 통한 수정
     - 
 ### 😎강수진
 - **기능**
