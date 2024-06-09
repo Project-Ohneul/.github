@@ -64,7 +64,9 @@ Ohneul은 일상 생활에서 지치고 힘들지만 누군가에게 속마음�
     - ec2연결(nginx, pm2, github actions 사용)
 ### 🐬김정운
 - **기능**
-    - 
+    - 유저 정보, 로그인, 접속 보상 지급, 공지, 코인 사옹 내역, 유저 신고
+    - 데이터베이스 연결(mariaDB)
+    - ec2연결(nginx, pm2, github actions 사용)
 
 ## 팀원 구성
 <div align="center">
